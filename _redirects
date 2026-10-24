@@ -1,0 +1,6 @@
+/learn  /index.html  200
+/learn/*  /index.html  200
+/practice  /index.html  200
+/practice/*  /index.html  200
+/profile  /index.html  200
+/*  /index.html  200

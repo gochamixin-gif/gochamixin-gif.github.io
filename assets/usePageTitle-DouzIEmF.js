@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-XKyaHtl9.js";import{Kt as t}from"./react-vendor-gR8lW3t0.js";var n=e(t(),1);function r(e){(0,n.useEffect)(()=>(document.title=`${e} — Phyzzy`,()=>{document.title=`Phyzzy — физика, которую видно`}),[e])}export{r as t};
